@@ -31,6 +31,9 @@ This console-based application allows users to convert **Decimal numbers** into 
 
 ## 📋 Menu Options
 
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/number-system-converter.git
 
 ---
 
