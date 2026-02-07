@@ -33,7 +33,7 @@ This console-based application allows users to convert **Decimal numbers** into 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/number-system-converter.git
+   git clone https://github.com/Deepak7Rawat/number-system-converter.git
 
 ---
 
@@ -47,4 +47,5 @@ This console-based application allows users to convert **Decimal numbers** into 
 4. Exit
 
 Enter Decimal number -- 25
+
 Binary of 25 is -- 11001
